@@ -33,7 +33,7 @@ body {
   list-style-type: none;
 }
 
-.nav li:hover {
+a:hover {
   background-color: #a63f38;
 }
 
