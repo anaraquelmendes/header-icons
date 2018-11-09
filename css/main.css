@@ -52,10 +52,10 @@ nav a {
 
 .leftgrain {
   float: left;
-  width: 40px;
+  max-width: 40px;
 }
 
 .rightgrain {
   float: right;
-  width: 40px;
+  max-width: 40px;
 }
