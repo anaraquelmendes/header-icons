@@ -50,6 +50,12 @@ nav a {
   text-decoration: none;
 }
 
-img {
+.leftgrain {
+  float: left;
+  width: 40px;
+}
+
+.rightgrain {
+  float: right;
   width: 40px;
 }
